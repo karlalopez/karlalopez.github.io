@@ -4,4 +4,4 @@ _site/
 .*.s[a-w][a-z]
 _drafts/*
 .env
-doc/
+docs/
